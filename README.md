@@ -8,3 +8,6 @@ To verify it is working execute command:
 curl http://localhost:8080/v1/api/messages/1
 ```
 
+You can find more here:
+https://dazzling-hypatia-171301.netlify.app/wiremock-stub-external-api/
+
